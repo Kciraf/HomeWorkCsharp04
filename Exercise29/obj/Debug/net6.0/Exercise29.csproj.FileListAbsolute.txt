@@ -1,0 +1,15 @@
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar04\HomeWork04\Exercise29\bin\Debug\net6.0\Exercise29.exe
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar04\HomeWork04\Exercise29\bin\Debug\net6.0\Exercise29.deps.json
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar04\HomeWork04\Exercise29\bin\Debug\net6.0\Exercise29.runtimeconfig.json
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar04\HomeWork04\Exercise29\bin\Debug\net6.0\Exercise29.dll
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar04\HomeWork04\Exercise29\bin\Debug\net6.0\Exercise29.pdb
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar04\HomeWork04\Exercise29\obj\Debug\net6.0\Exercise29.csproj.AssemblyReference.cache
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar04\HomeWork04\Exercise29\obj\Debug\net6.0\Exercise29.GeneratedMSBuildEditorConfig.editorconfig
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar04\HomeWork04\Exercise29\obj\Debug\net6.0\Exercise29.AssemblyInfoInputs.cache
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar04\HomeWork04\Exercise29\obj\Debug\net6.0\Exercise29.AssemblyInfo.cs
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar04\HomeWork04\Exercise29\obj\Debug\net6.0\Exercise29.csproj.CoreCompileInputs.cache
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar04\HomeWork04\Exercise29\obj\Debug\net6.0\Exercise29.dll
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar04\HomeWork04\Exercise29\obj\Debug\net6.0\refint\Exercise29.dll
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar04\HomeWork04\Exercise29\obj\Debug\net6.0\Exercise29.pdb
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar04\HomeWork04\Exercise29\obj\Debug\net6.0\Exercise29.genruntimeconfig.cache
+D:\For work\Работа на лекция, дз\Знак-во с яз. прог\SharpProgs\Seminar04\HomeWork04\Exercise29\obj\Debug\net6.0\ref\Exercise29.dll
